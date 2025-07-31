@@ -1,2 +1,7 @@
-console.log("I caused a merge conflict.");
-
+function add(x, y) {
+    return x + y;
+  }
+  
+  console.log("Hello World");
+  console.log("Sum:", add(5, 10));
+  console.log("Merge Conflict Resolved");
