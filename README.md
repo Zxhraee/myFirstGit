@@ -1,7 +1,7 @@
 # My First NodeJS Web App
 
 ## Description
-This project is a simple Node.js application developed during the week 1 of Softeare Framework course. It demonstrates core concepts such as JavaScript basics, Node.js server functionality, Git version control.
+This project is a simple Node.js application developed during the week 1 of Software Framework course. It demonstrates core concepts such as JavaScript basics, Node.js server functionality, Git version control.
 
 ## Installation
 
